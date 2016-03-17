@@ -1,0 +1,13 @@
+
+   ---------------------------------------------------------
+     Aqui podemos guardar el css que utilizaremos
+     para cuando tengamos problemas con ie explorer
+   ---------------------------------------------------------
+
+   1) puedes crear carpetas
+   2) gracias al archivo .gitignore no los preocuparemos
+      si afecta las descargas de github
+   3) recuerda utilizar el codigo de:
+      $data['cargaAnexa1'] = "ssssssssss"; para llamar.
+   4) cuando llames puedes utilizar <!--[if lt IE 9]>
+      segun la version de ie que quieras modificar
